@@ -7,7 +7,7 @@
 - 
 - Hola! Soy Reoeldinosaurio
 - Interesado en defi, web3, database, bitcoin, habbo y analisis fundamental
-- Me encuentro aprendiendo polka y ada
+- Me encuentro aprendiendo 
 - Quisiera colaborar con cualquier equipo 
 - y me pueden encontrar en https://twitter.com/ o aqui en Gb https://github.com/Reothedino
 <!---
